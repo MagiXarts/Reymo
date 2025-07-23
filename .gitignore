@@ -1,0 +1,26 @@
+# dependencies
+node_modules/
+.pnpm-debug.log
+
+# build output
+.next/
+out/
+
+# local env files
+.env
+.env.local
+.env.*.local
+
+# system files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+*.swp
+
+# misc
+*.log
